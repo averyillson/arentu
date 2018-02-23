@@ -1,1 +1,8 @@
+# DS Store
 *.DS_Store
+
+# Codekit
+*.codekit3
+
+# Stylesheet
+*.css.map
